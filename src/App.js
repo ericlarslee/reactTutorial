@@ -16,7 +16,7 @@ function App() {
                   <Form.Label>Email Address:</Form.Label>
                   <Form.Control type="email" placeholder="Email@Email.com" />
                   <Form.Text className="text-muted">
-                    We'll never share your email address ;)
+                    We will never share your email address
                   </Form.Text>
                 </Form.Group>
               </Col>
